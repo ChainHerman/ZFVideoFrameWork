@@ -1,0 +1,2 @@
+VideoFrameWork,/Users/mac/Desktop/VideoFrameWork.framework/VideoFrameWork,VideoFrameWork.framework/VideoFrameWork filter=lfs diff=lfs merge=lfs -text
+VideoFrameWork filter=lfs diff=lfs merge=lfs -text
