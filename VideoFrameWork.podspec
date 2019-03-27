@@ -2,7 +2,7 @@
    s.name         = "VideoFrameWork"
    s.version      = "1.0.1"
    s.summary      = "VideoFrameWork"
-   s.description  = <<-DES 
+   s.description  = <<-DESC
 					zfVideoFrameWork
                     DESC
    s.homepage     = "https://github.com/ChainHerman/ZFVideoFrameWork.git"
