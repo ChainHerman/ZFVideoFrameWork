@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 VideoFrameWork,/Users/mac/Desktop/VideoFrameWork.framework/VideoFrameWork,VideoFrameWork.framework/VideoFrameWork filter=lfs diff=lfs merge=lfs -text
 VideoFrameWork filter=lfs diff=lfs merge=lfs -text
+=======
+*.framework filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 292a9d65bbc9ab749614e2ac9534644bfee53931
